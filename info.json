@@ -4,7 +4,7 @@
   "api": 4,
   "description": "LeetScript interpreter in PHP and designed for PhQAgent/LeetQQ",
   "author": "PeratX",
-  "main": "PeratX\\LeetScript\\LeetScript",
+  "main": "PeratX\\LeetScript\\LeetScriptHelper",
   "order": 0,
   "website": "https://github.com/PeratX/LeetScript",
   "dependencies": [
