@@ -1,0 +1,16 @@
+{
+  "name": "LeetScript",
+  "version": "0.1.0-alpha",
+  "api": 4,
+  "description": "LeetScript interpreter in PHP and designed for PhQAgent/LeetQQ",
+  "author": "PeratX",
+  "main": "PeratX\\LeetScript\\LeetScript",
+  "order": 0,
+  "website": "https://github.com/PeratX/LeetScript",
+  "dependencies": [
+    {
+      "name": "LeetQQ",
+      "version": "1.0.0"
+    }
+  ]
+}
